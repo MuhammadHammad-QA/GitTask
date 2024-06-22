@@ -1,0 +1,40 @@
+/* This is a basic CSS file */
+
+/* Select the body element */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Add some styles to headings */
+h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+h2 {
+    color: #666;
+    font-size: 20px;
+}
+
+/* Add a background color to the container */
+.container {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Style a button */
+.button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Add some spacing between elements */
+.space {
+    margin-bottom: 10px;
+}
