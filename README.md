@@ -6,4 +6,6 @@ Hello 3
 
 
 Hello 2
->>>>>>> ea8bf8c (Commit from development)
+
+Hello 4
+Hello 5
